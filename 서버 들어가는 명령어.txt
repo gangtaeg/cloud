@@ -1,0 +1,5 @@
+서버 들어가는 명령어
+1. cd /mnt/c 후에
+ssh -i "Unix.pem" ubuntu@ec2-[숫자]-[숫자]-[숫자]-[숫자].ap-northeast-2.compute.amazonaws.com
+
+2. ssh -i "/mnt/c/Unix.pem" ubuntu@ec2-[숫자]-[숫자]-[숫자]-[숫자].ap-northeast-2.compute.amazonaws.com
