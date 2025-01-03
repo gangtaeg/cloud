@@ -1,3 +1,2 @@
 # cloud
-cloud activate
-# cloud
+cloud activate.
